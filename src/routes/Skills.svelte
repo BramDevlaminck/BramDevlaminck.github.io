@@ -36,6 +36,10 @@
 					<Tooltip>CSS</Tooltip>
 					<img src='sql.svg' class='skill' alt='SQL logo' />
 					<Tooltip>SQL</Tooltip>
+					<img src='haskell.png' class='skill' alt='Haskell logo' />
+					<Tooltip>Haskell</Tooltip>
+					<img src='prolog.webp' class='skill' alt='Prolog logo' />
+					<Tooltip>Prolog</Tooltip>
 				</div>
 			</Card>
 		</div>
@@ -61,6 +65,35 @@
 				</div>
 			</Card>
 		</div>
+
+		<div class='cardwrapper'>
+			<Card size='sm'>
+				<h5 class='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>Soft Skills</h5>
+				TODO
+			</Card>
+		</div>
+
+		<div class='cardwrapper'>
+			<Card size='sm'>
+				<h5 class='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>Development Environments</h5>
+				<p class='font-normal text-gray-700 dark:text-gray-400 leading-tight'>
+					For development of own projects I'm mostly using following IDEs.
+				</p>
+				<div class='container'>
+					<img src='PyCharm_Icon.svg' class='skill' alt='PyCharm logo' />
+					<Tooltip>PyCharm</Tooltip>
+					<img src='WebStorm_Icon.svg' class='skill' alt='WebStorm logo' />
+					<Tooltip>WebStorm</Tooltip>
+					<img src='Clion.svg' class='skill' alt='Clion logo' />
+					<Tooltip>Clion</Tooltip>
+					<img src='IntelliJ_IDEA_Icon.svg' class='skill' alt='IntelliJ IDEA logo' />
+					<Tooltip>IntelliJ IDEA</Tooltip>
+					<img src='vscode.svg' class='skill' alt='Visual Studio Code logo' />
+					<Tooltip>Visual Studio Code</Tooltip>
+				</div>
+			</Card>
+		</div>
+
 	</div>
 </div>
 
