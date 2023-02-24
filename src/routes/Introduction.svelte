@@ -14,16 +14,15 @@
 
 <style>
 	#imgDiv {
-			width: 30em;
+			width: 20em;
       margin: 0.5em 0.5em 0.0em auto;
-			overflow: hidden;
   }
   #wrapper {
-      width: 60em;
-      overflow: hidden; /* will contain if #first is longer than #second */
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
   }
   #textDiv {
-      width: 30em;
-      float:left; /* add this */
+			max-width: 25em;
   }
 </style>
