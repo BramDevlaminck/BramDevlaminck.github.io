@@ -6,6 +6,8 @@
 	import Skills from './Skills.svelte';
 </script>
 
+<title>Online resume/CV of Bram Devlaminck</title>
+<meta name='description' content='Online Resume Bram Devaminck. A clean overview of my skills, studies and experiences'>
 <div id='container'>
 	<Introduction/>
 	<Skills/>

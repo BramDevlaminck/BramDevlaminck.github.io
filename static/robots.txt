@@ -1,0 +1,7 @@
+# don't allow google images to index any image
+User-agent: Googlebot-Image
+Disallow: /
+
+# allow googles main crawler to crawl
+User-agent: Googlebot
+Allow: /
