@@ -43,14 +43,16 @@
 		<div class='max-w-sm overflow-hidden shadow-lg border rounded-lg card-wrapper'>
 			<h5 class='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>Technologies</h5>
 			<p class='font-normal text-gray-700 dark:text-gray-400 leading-tight'>
-				These come in handy during the development cycle to optimize the development experience, write reports,
-				effectively collaborate with collegues,...
+				These come in handy during the development cycle to improve the development experience, write reports,
+				effectively collaborate with colleagues,...
 			</p>
 			<div class='container'>
 				<img src='docker.png' class='skill' alt='Docker logo' />
 				<Tooltip>Docker</Tooltip>
 				<img src='Git_icon.svg' class='skill' alt='GIT logo' />
 				<Tooltip>GIT</Tooltip>
+				<img src='gh-actions_icon.png' class='skill' alt='GitHub Actions logo' />
+				<Tooltip>GitHub Actions</Tooltip>
 				<img src='markdown.svg' class='skill' alt='Markdown logo' />
 				<Tooltip>Markdown</Tooltip>
 				<img src='latex.svg' class='skill' alt='LaTeX logo' />
@@ -63,14 +65,15 @@
 		<div class='max-w-sm overflow-hidden shadow-lg border rounded-lg card-wrapper'>
 			<h5 class='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>Soft Skills</h5>
 			<p class='font-normal text-gray-700 dark:text-gray-400 leading-tight'>
-				This is some placeholder text that will be filled in
+				I'm hard-driven, detailed, punctual and a team-player.
+				These are fundamental to how I approach things during the group-projects we have to make.
 			</p>
 		</div>
 
 		<div class='max-w-sm overflow-hidden shadow-lg border rounded-lg card-wrapper'>
 			<h5 class='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>Development Environments</h5>
 			<p class='font-normal text-gray-700 dark:text-gray-400 leading-tight'>
-				For development of own projects I'm mostly using following IDEs.
+				For the development of my own projects I'm mostly using following IDEs.
 			</p>
 			<div class='container'>
 				<img src='PyCharm_Icon.svg' class='skill' alt='PyCharm logo' />
