@@ -65,7 +65,7 @@
 		<div class='max-w-sm overflow-hidden shadow-lg border rounded-lg card-wrapper'>
 			<h5 class='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>Soft Skills</h5>
 			<p class='font-normal text-gray-700 dark:text-gray-400 leading-tight'>
-				I'm hard-driven, detailed, punctual and a team-player.
+				I am hard-driven, punctual, have eye for detail and a team-player. I am furthermore always on the lookout for better ways to bring ideas to life.
 				These are fundamental to how I approach things during the group-projects we have to make.
 			</p>
 		</div>
