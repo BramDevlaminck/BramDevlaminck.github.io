@@ -19,6 +19,8 @@
 				<Tooltip>Python</Tooltip>
 				<img src='Kotlin_Icon.svg' class='skill' alt='Kotlin logo' />
 				<Tooltip>Kotlin</Tooltip>
+				<img src='rust.svg' class='skill' alt='Rust logo' />
+				<Tooltip>Rust</Tooltip>
 				<img src='C_Programming_Language.svg' class='skill' alt='C logo' />
 				<Tooltip>C</Tooltip>
 				<img src='ISO_C++_Logo.svg' class='skill' alt='C++ logo' />
@@ -53,6 +55,12 @@
 				<Tooltip>GIT</Tooltip>
 				<img src='gh-actions_icon.png' class='skill' alt='GitHub Actions logo' />
 				<Tooltip>GitHub Actions</Tooltip>
+				<img src='gcp.jpg' class='skill' alt='Google Cloud Platform logo' />
+				<Tooltip>Google Cloud Platform</Tooltip>
+				<img src='kubernetes.png' class='skill' alt='Kubernetes logo' />
+				<Tooltip>Kubernetes</Tooltip>
+				<img src='terraform.png' class='skill' alt='Terraform logo' />
+				<Tooltip>Terraform</Tooltip>
 				<img src='markdown.svg' class='skill' alt='Markdown logo' />
 				<Tooltip>Markdown</Tooltip>
 				<img src='latex.svg' class='skill' alt='LaTeX logo' />
@@ -65,7 +73,7 @@
 		<div class='max-w-sm overflow-hidden shadow-lg border rounded-lg card-wrapper'>
 			<h5 class='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>Soft Skills</h5>
 			<p class='font-normal text-gray-700 dark:text-gray-400 leading-tight'>
-				I am hard-driven, punctual, have eye for detail and a team-player. I am furthermore always on the lookout for better ways to bring ideas to life.
+				I am hard-driven, punctual, detail-oriented and a team-player. I am furthermore always on the lookout for better ways to bring ideas to life.
 				These are fundamental to how I approach things during the group-projects we have to make.
 			</p>
 		</div>

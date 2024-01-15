@@ -11,8 +11,7 @@
 	<div id='textDiv'>
 		<P align='justify' size='lg' weight='medium' height='relaxed' justify>
 			Hi, I'm Bram and I'm currently working on my Masters degree in computer science at Ghent University.
-			I'm very passionate about how technology can improve peoples life and am currently looking for an internship for
-			the summer of 2023.
+			I'm very passionate about how technology can improve peoples life and am currently looking for a full time job starting in the summer of 2024.
 			Through my education I have obtained a broad base knowledge in a lot of different IT-disciplines.
 			Transforming this knowledge into practice is what I am currently looking most forward to.
 		</P>
